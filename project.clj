@@ -10,6 +10,7 @@
                  [compojure "1.2.1"]
                  [ring/ring-core "1.3.1"]
                  [aysylu/loom "0.5.0"]
-                 [org.clojure/data.json "0.2.5"]]
+                 [org.clojure/data.json "0.2.5"]
+                 [com.taoensso/carmine "2.8.0"]]
   :main logistics.core
   :profiles {:uberjar {:aot :all}})
