@@ -1,5 +1,7 @@
 # logistics
 
+![](https://travis-ci.org/thiagomoretto/clj-logistics-ri.svg)
+
 FIXME: description
 
 ## Installation
